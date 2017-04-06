@@ -4,4 +4,4 @@ Website for developers to compete and learn.
 Hi,
 This website is for all you passionate computer science professionals and students to learn and grow.
 
-Never stop learning! happy learning.
+Never stop coding! happy learning.
