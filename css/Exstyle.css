@@ -1,0 +1,130 @@
+/*----------Navigation bar style------------*/
+
+.navbar{
+	border:0;
+	background-color: #43484a;
+    margin-bottom: 0;
+    z-index: 9999;
+    font-size: 14px;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: #43484a;
+    background-color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-default .navbar-brand {
+    font-family:monospace;
+    color: #fff;
+    font-size: 22px;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #f9f9f9;
+}
+
+/*-----------Jumbtron Style-----------------*/
+.jumbotron{
+	background-color: #43484a;
+    color: #ffffff;
+    padding: 97px 35px;
+}
+.jumbotron > h1{
+    text-shadow: 1px 3px #2a2c2d;
+}
+.bg-grey {
+    background-color: #f6f6f6;
+}
+.container-fluid{
+	padding:63px 50px; 
+}
+.logo{
+	font-size: 220px; 
+	color: #43484a;
+}
+.btn{
+	font-size: 16px;
+    padding: 7px 32px;
+}
+.img{
+	font-size: 62px;
+	color: #43484a;
+}
+.thumbnail{
+    padding: 0 0 15px 0;
+    border: none;
+}
+.thumbnail img{
+	margin-bottom: 20px;
+}
+.carousel-control.right, .carousel-control.left{
+	background-image: none;
+	color: #43484a;
+}
+.carousel-indicators li{
+	border-color:#43484a;
+}
+.carousel-indicators li.active{
+	background-color: #43484a;
+}
+.item h4{
+	font-style: italic;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+    margin: 67px 0px;
+}
+.item span{
+	font-style: normal;
+}
+.panel{
+	border: 1px solid #43484a;
+    border-radius: 0px;
+    transition: box-shadow 0.4s;
+}
+.panel:hover{
+	box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+.panel .panel-heading{
+	border-radius: 0px;
+	background-color: #43484a;
+	color: #fff;
+    padding: 18px 0px 18px 0px;
+}
+.panel-footer{
+	background-color: white;
+}
+.panel-footer .btn:hover{
+	border: 1px solid #43484a;
+    background-color: #fff !important;
+    color: #43484a;
+}
+.panel-footer .btn{
+	background-color: #43484a;
+    color: #fff;
+    margin: 35px 0px 22px 0px;
+}
+.panel-body{
+    line-height: 30px;
+}
+.padding-0{
+	padding: 0;
+}
+.contact-icon{
+    margin-right: 6px;
+    font-size: 16px;
+    color: #2a2c2d;
+}
+@media (max-width: 630px){
+	.logo{
+		font-size: 154px;
+	}
+}
+@media (max-width: 767px){
+    .mgn-btm{
+        margin-top: 15px; 
+    }
+}
