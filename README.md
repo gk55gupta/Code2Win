@@ -2,6 +2,6 @@
 Website for developers to compete and learn.
 
 Hi,
-This website is for all you passionate computer science professionals and students to learn and grow.
+This my ongoing Web project which is a platform for computer science professionals and students to learn and grow.
 
 Never stop coding! happy learning.
